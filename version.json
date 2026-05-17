@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v5.0/TorrentFilmes.apk",
-  "changelog": "Compartilhe o vídeo com sua TV ou outro dispositivo na mesma rede WiFi.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v6.0/TorrentFilmes.apk",
+  "changelog": "Botão de compartilhar corrigido — abre share nativo do Android.",
   "force": false
 }
