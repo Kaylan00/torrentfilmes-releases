@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
+  "versionCode": 15,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v14.0/TorrentFilmes.apk",
-  "changelog": "Sincronização celular↔TV: fecha o cast e o celular vai pro mesmo minuto que a TV estava.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v15.0/TorrentFilmes.apk",
+  "changelog": "Legendas: faixas embutidas do MKV + busca no OpenSubtitles em português.",
   "force": false
 }
