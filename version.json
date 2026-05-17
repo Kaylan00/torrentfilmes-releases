@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v4.0/TorrentFilmes.apk",
-  "changelog": "Botão de compartilhar vídeo no player — envie o stream para sua TV ou outro dispositivo na mesma rede.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v5.0/TorrentFilmes.apk",
+  "changelog": "Compartilhe o vídeo com sua TV ou outro dispositivo na mesma rede WiFi.",
   "force": false
 }
