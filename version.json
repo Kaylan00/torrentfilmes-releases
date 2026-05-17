@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
+  "versionCode": 12,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v11.0/TorrentFilmes.apk",
-  "changelog": "Cast para TV corrigido — envio de vídeo via DLNA/UPnP funcionando.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v12.0/TorrentFilmes.apk",
+  "changelog": "Cast para TV: corrige queda de rede ao sair do app durante o cast.",
   "force": false
 }
