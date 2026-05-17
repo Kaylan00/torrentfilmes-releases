@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v2.0/TorrentFilmes.apk",
-  "changelog": "Aba Sobre + sistema de atualização automática integrado.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v3.0/TorrentFilmes.apk",
+  "changelog": "Aba Sobre corrigida + ícone do app atualizado.",
   "force": false
 }
