@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v8.0/TorrentFilmes.apk",
-  "changelog": "Compartilhamento de stream corrigido.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v9.0/TorrentFilmes.apk",
+  "changelog": "Compartilhar stream corrigido — mostra link para abrir na TV.",
   "force": false
 }
