@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v6.0/TorrentFilmes.apk",
-  "changelog": "Botão de compartilhar corrigido — abre share nativo do Android.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v7.0/TorrentFilmes.apk",
+  "changelog": "Botão de compartilhar corrigido — agora no miniBar e no player, sempre clicável.",
   "force": false
 }
