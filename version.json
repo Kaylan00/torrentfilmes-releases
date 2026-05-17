@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
+  "versionCode": 10,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v9.0/TorrentFilmes.apk",
-  "changelog": "Compartilhar stream corrigido — mostra link para abrir na TV.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v10.0/TorrentFilmes.apk",
+  "changelog": "Cast para TV — descobre TVs na rede WiFi e envia o vídeo direto (DLNA/UPnP).",
   "force": false
 }
