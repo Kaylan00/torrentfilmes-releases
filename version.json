@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
+  "versionCode": 11,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v10.0/TorrentFilmes.apk",
-  "changelog": "Cast para TV — descobre TVs na rede WiFi e envia o vídeo direto (DLNA/UPnP).",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v11.0/TorrentFilmes.apk",
+  "changelog": "Cast para TV corrigido — envio de vídeo via DLNA/UPnP funcionando.",
   "force": false
 }
