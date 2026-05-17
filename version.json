@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v3.0/TorrentFilmes.apk",
-  "changelog": "Aba Sobre corrigida + ícone do app atualizado.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v4.0/TorrentFilmes.apk",
+  "changelog": "Botão de compartilhar vídeo no player — envie o stream para sua TV ou outro dispositivo na mesma rede.",
   "force": false
 }
