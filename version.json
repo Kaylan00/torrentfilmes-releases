@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
+  "versionCode": 16,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v15.0/TorrentFilmes.apk",
-  "changelog": "Legendas: faixas embutidas do MKV + busca no OpenSubtitles em português.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v16.0/TorrentFilmes.apk",
+  "changelog": "Fix: botão voltar na tela de loading agora cancela corretamente.",
   "force": false
 }
