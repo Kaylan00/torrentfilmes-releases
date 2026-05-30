@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
+  "versionCode": 21,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v20.0/TorrentFilmes.apk",
-  "changelog": "Revisao de bugs: status do Real-Debrid estavel no carregamento, auto-recuperacao de travamento funcionando, e correcao de timeout que rejeitava torrent novo.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v21.0/TorrentFilmes.apk",
+  "changelog": "Correcao do erro ao pular (seek): recuperacao automatica re-preparando o stream na posicao atual, sem perder o ponto do filme.",
   "force": false
 }
