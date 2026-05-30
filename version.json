@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
+  "versionCode": 17,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v16.0/TorrentFilmes.apk",
-  "changelog": "Fix: botão voltar na tela de loading agora cancela corretamente.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v17.0/TorrentFilmes.apk",
+  "changelog": "Real-Debrid integrado: filmes e series agora tocam por link direto (sem buffering) quando ha cache, com fallback automatico para P2P. + correcoes de streaming P2P em packs de serie.",
   "force": false
 }
