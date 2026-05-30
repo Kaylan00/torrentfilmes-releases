@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
+  "versionCode": 18,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v17.0/TorrentFilmes.apk",
-  "changelog": "Real-Debrid integrado: filmes e series agora tocam por link direto (sem buffering) quando ha cache, com fallback automatico para P2P. + correcoes de streaming P2P em packs de serie.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v18.0/TorrentFilmes.apk",
+  "changelog": "Correcao do video que travava 'pausado': agora mostra carregando + auto-recuperacao. Selo de fonte (Real-Debrid x Torrent P2P) no player.",
   "force": false
 }
