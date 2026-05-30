@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
+  "versionCode": 20,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v19.0/TorrentFilmes.apk",
-  "changelog": "Transmissao pra TV comeca no tempo em que o filme ja esta no celular, confiavel ja na primeira transmissao.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v20.0/TorrentFilmes.apk",
+  "changelog": "Revisao de bugs: status do Real-Debrid estavel no carregamento, auto-recuperacao de travamento funcionando, e correcao de timeout que rejeitava torrent novo.",
   "force": false
 }
