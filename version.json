@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
+  "versionCode": 19,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v18.0/TorrentFilmes.apk",
-  "changelog": "Correcao do video que travava 'pausado': agora mostra carregando + auto-recuperacao. Selo de fonte (Real-Debrid x Torrent P2P) no player.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v19.0/TorrentFilmes.apk",
+  "changelog": "Transmissao pra TV comeca no tempo em que o filme ja esta no celular, confiavel ja na primeira transmissao.",
   "force": false
 }
