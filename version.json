@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
+  "versionCode": 25,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v24.0/TorrentFilmes.apk",
-  "changelog": "- Espacamento do titulo da serie abaixo do video\n- Botao de arquivos do torrent no player: mostra tudo que tem no torrent e deixa trocar de episodio/arquivo (so videos sao clicaveis)",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v25.0/TorrentFilmes.apk",
+  "changelog": "- Historico salvo no aparelho (localStorage): o que assistiu e quantos minutos, mesmo sem internet\n- Tela de Historico com pôster, minutos / duracao e barra de progresso\n- Toque para continuar de onde parou",
   "force": false
 }
