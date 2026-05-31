@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
+  "versionCode": 22,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v21.0/TorrentFilmes.apk",
-  "changelog": "Correcao do erro ao pular (seek): recuperacao automatica re-preparando o stream na posicao atual, sem perder o ponto do filme.",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v22.0/TorrentFilmes.apk",
+  "changelog": "- Botao voltar nao fecha mais o app\n- Voltar do player volta pros episodios (nao pra tela inicial)\n- Troca de faixa de audio em torrents dual audio (PT-BR pre-selecionado)\n- Escolher qual arquivo/episodio assistir quando o torrent tem varios\n- Correcao da tela preta no modo miniatura\n- Picture-in-Picture / rodar em segundo plano",
   "force": false
 }
