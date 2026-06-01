@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
+  "versionCode": 26,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v25.0/TorrentFilmes.apk",
-  "changelog": "- Historico salvo no aparelho (localStorage): o que assistiu e quantos minutos, mesmo sem internet\n- Tela de Historico com pôster, minutos / duracao e barra de progresso\n- Toque para continuar de onde parou",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v26.0/TorrentFilmes.apk",
+  "changelog": "- Correcao: ao escolher um episodio/arquivo num torrent com varios videos, agora reproduz o arquivo clicado (antes voltava pra tela da serie)",
   "force": false
 }
