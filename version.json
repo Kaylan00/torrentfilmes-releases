@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
+  "versionCode": 29,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v28.0/TorrentFilmes.apk",
-  "changelog": "- Novas fontes de busca dublado: Brazuca Torrents (filme/serie/anime) e Mico-Leao Dublado (filme) — mais resultados dublados PT-BR",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v29.0/TorrentFilmes.apk",
+  "changelog": "- Correcao: rolar a lista de episodios/arquivos de um torrent nao fecha mais o modal por engano",
   "force": false
 }
