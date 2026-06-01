@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
+  "versionCode": 27,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v26.0/TorrentFilmes.apk",
-  "changelog": "- Correcao: ao escolher um episodio/arquivo num torrent com varios videos, agora reproduz o arquivo clicado (antes voltava pra tela da serie)",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v27.0/TorrentFilmes.apk",
+  "changelog": "- Correcao: escolher um episodio num torrent com varios arquivos agora toca direto via Real-Debrid (antes caia no P2P e travava em 0 peers)",
   "force": false
 }
