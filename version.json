@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v27.0/TorrentFilmes.apk",
-  "changelog": "- Correcao: escolher um episodio num torrent com varios arquivos agora toca direto via Real-Debrid (antes caia no P2P e travava em 0 peers)",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v28.0/TorrentFilmes.apk",
+  "changelog": "- Novas fontes de busca dublado: Brazuca Torrents (filme/serie/anime) e Mico-Leao Dublado (filme) — mais resultados dublados PT-BR",
   "force": false
 }
