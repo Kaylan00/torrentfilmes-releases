@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
+  "versionCode": 30,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v29.0/TorrentFilmes.apk",
-  "changelog": "- Correcao: rolar a lista de episodios/arquivos de um torrent nao fecha mais o modal por engano",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v30.0/TorrentFilmes.apk",
+  "changelog": "- Videos grandes agora preparam rapido mesmo com so o inicio baixado (indice/moov priorizado ate ~15MB no final)\n- Reproducao segura durante tela apagada ou app em background (Wi-Fi e CPU travados enquanto streama)\n- Seek para posicao ainda nao baixada aguenta esperar sem reiniciar o player",
   "force": false
 }
