@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v32.0/TorrentFilmes.apk",
-  "changelog": "- Fix: miniatura preta ao entrar no filme (fundo preto do container nativo nao cobre mais atras do WebView enquanto o CSS calcula o layout)\n- Novo botao de Diagnostico no mini-player (P2P): mostra arquivo escolhido, pecas emperradas no inicio/fim, peers, velocidade e barra visual do progresso, com botao Copiar",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v33.0/TorrentFilmes.apk",
+  "changelog": "- Fix: botao de play nao funcionava depois que o torrent carregava (ExoPlayer em STATE_IDLE agora recebe prepare() antes do setPlayWhenReady)\n- Botao de Diagnostico tambem na tela de Carregando\n- Mensagem de erro abre o Diagnostico sozinho mostrando exatamente qual peca emperrou",
   "force": false
 }
