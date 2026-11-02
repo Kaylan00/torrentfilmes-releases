@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
+  "versionCode": 32,
   "minVersion": 1,
-  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v31.0/TorrentFilmes.apk",
-  "changelog": "- Mais peers e sem limite de banda no torrent (LSD ligado) - carrega mais rapido\n- Buffer do player subiu pra 60s - menos travadas quando o peer oscila\n- Mini-barra do player agora mostra o tempo (0:32 / 1:30) e o quanto ja tem em cache\n- Linha cinza fina do mini-player ficou mais discreta",
+  "downloadUrl": "https://github.com/Kaylan00/torrentfilmes-releases/releases/download/v32.0/TorrentFilmes.apk",
+  "changelog": "- Fix: miniatura preta ao entrar no filme (fundo preto do container nativo nao cobre mais atras do WebView enquanto o CSS calcula o layout)\n- Novo botao de Diagnostico no mini-player (P2P): mostra arquivo escolhido, pecas emperradas no inicio/fim, peers, velocidade e barra visual do progresso, com botao Copiar",
   "force": false
 }
